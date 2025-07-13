@@ -1,0 +1,9 @@
+Application ID
+qXDGti2eSJy5JPR2
+
+c6HwTEwXwa4z4w3PD6bDrvG3FICjvHLo  client ID
+ht4UAiimS6MtKyLgQmuw0niIUji73tNAMBGWgcnT5LNj  CLIENT SECRET
+
+Basic YzZId1RFd1h3YTR6NHczUEQ2YkRydkczRklDanZITG86aHQ0VUFpaW1TNk10S3lMZ1FtdXcwbmlJVWppNzN0TkFNQkdXZ2NuVDVMTmo=
+
+Authorization header
